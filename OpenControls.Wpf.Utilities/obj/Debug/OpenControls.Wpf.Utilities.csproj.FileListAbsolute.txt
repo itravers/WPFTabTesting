@@ -1,0 +1,14 @@
+C:\Users\isaac\Downloads\OpenControls.Wpf\OpenControls.Wpf.Utilities\bin\Debug\OpenControls.Wpf.Utilities.dll
+C:\Users\isaac\Downloads\OpenControls.Wpf\OpenControls.Wpf.Utilities\bin\Debug\OpenControls.Wpf.Utilities.pdb
+C:\Users\isaac\Downloads\OpenControls.Wpf\OpenControls.Wpf.Utilities\obj\Debug\OpenControls.Wpf.Utilities.Properties.Resources.resources
+C:\Users\isaac\Downloads\OpenControls.Wpf\OpenControls.Wpf.Utilities\obj\Debug\OpenControls.Wpf.Utilities.csproj.GenerateResource.cache
+C:\Users\isaac\Downloads\OpenControls.Wpf\OpenControls.Wpf.Utilities\obj\Debug\OpenControls.Wpf.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\OpenControls.Wpf\OpenControls.Wpf.Utilities\obj\Debug\OpenControls.Wpf.Utilities.dll
+C:\Users\isaac\Downloads\OpenControls.Wpf\OpenControls.Wpf.Utilities\obj\Debug\OpenControls.Wpf.Utilities.pdb
+C:\Users\isaac\source\repos\TabsTesting\OpenControls.Wpf.Utilities\bin\Debug\OpenControls.Wpf.Utilities.dll
+C:\Users\isaac\source\repos\TabsTesting\OpenControls.Wpf.Utilities\bin\Debug\OpenControls.Wpf.Utilities.pdb
+C:\Users\isaac\source\repos\TabsTesting\OpenControls.Wpf.Utilities\obj\Debug\OpenControls.Wpf.Utilities.Properties.Resources.resources
+C:\Users\isaac\source\repos\TabsTesting\OpenControls.Wpf.Utilities\obj\Debug\OpenControls.Wpf.Utilities.csproj.GenerateResource.cache
+C:\Users\isaac\source\repos\TabsTesting\OpenControls.Wpf.Utilities\obj\Debug\OpenControls.Wpf.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\TabsTesting\OpenControls.Wpf.Utilities\obj\Debug\OpenControls.Wpf.Utilities.dll
+C:\Users\isaac\source\repos\TabsTesting\OpenControls.Wpf.Utilities\obj\Debug\OpenControls.Wpf.Utilities.pdb
